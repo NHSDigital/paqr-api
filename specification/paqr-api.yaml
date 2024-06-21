@@ -1,5 +1,5 @@
 # This is an OpenAPI Specification (https://swagger.io/specification/)
-# for paqr-api owned by NHS Digita (https://digital.nhs.uk/)
+# for paqr-api owned by NHS Digital (https://digital.nhs.uk/)
 openapi: '3.0.0'
 info:
   title: 'paqr-api'
